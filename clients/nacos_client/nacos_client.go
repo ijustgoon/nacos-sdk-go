@@ -2,9 +2,9 @@ package nacos_client
 
 import (
 	"errors"
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/common/http_agent"
-	"github.com/nacos-group/nacos-sdk-go/utils"
+	"github.com/ijustgoon/nacos-sdk-go/common/constant"
+	"github.com/ijustgoon/nacos-sdk-go/common/http_agent"
+	"github.com/ijustgoon/nacos-sdk-go/utils"
 	"log"
 	"os"
 	"strconv"

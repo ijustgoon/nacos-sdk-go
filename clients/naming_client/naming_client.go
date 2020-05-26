@@ -1,13 +1,13 @@
 package naming_client
 
 import (
-	"github.com/nacos-group/nacos-sdk-go/clients/cache"
-	"github.com/nacos-group/nacos-sdk-go/clients/nacos_client"
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/model"
-	"github.com/nacos-group/nacos-sdk-go/utils"
-	"github.com/nacos-group/nacos-sdk-go/vo"
+	"github.com/ijustgoon/nacos-sdk-go/clients/cache"
+	"github.com/ijustgoon/nacos-sdk-go/clients/nacos_client"
+	"github.com/ijustgoon/nacos-sdk-go/common/constant"
+	"github.com/ijustgoon/nacos-sdk-go/common/logger"
+	"github.com/ijustgoon/nacos-sdk-go/model"
+	"github.com/ijustgoon/nacos-sdk-go/utils"
+	"github.com/ijustgoon/nacos-sdk-go/vo"
 	"github.com/pkg/errors"
 	"math"
 	"math/rand"

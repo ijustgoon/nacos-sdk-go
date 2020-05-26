@@ -2,9 +2,9 @@ package naming_client
 
 import (
 	"encoding/json"
-	"github.com/nacos-group/nacos-sdk-go/clients/cache"
-	"github.com/nacos-group/nacos-sdk-go/model"
-	"github.com/nacos-group/nacos-sdk-go/utils"
+	"github.com/ijustgoon/nacos-sdk-go/clients/cache"
+	"github.com/ijustgoon/nacos-sdk-go/model"
+	"github.com/ijustgoon/nacos-sdk-go/utils"
 	"log"
 	"reflect"
 	"time"

@@ -1,6 +1,6 @@
 package vo
 
-import "github.com/nacos-group/nacos-sdk-go/model"
+import "github.com/ijustgoon/nacos-sdk-go/model"
 
 /**
 *

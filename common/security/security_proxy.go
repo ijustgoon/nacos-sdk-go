@@ -3,8 +3,8 @@ package security
 import (
 	"encoding/json"
 	"errors"
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/common/http_agent"
+	"github.com/ijustgoon/nacos-sdk-go/common/constant"
+	"github.com/ijustgoon/nacos-sdk-go/common/http_agent"
 	"io/ioutil"
 	"log"
 	"net/http"

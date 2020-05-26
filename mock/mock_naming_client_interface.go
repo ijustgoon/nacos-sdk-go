@@ -6,8 +6,8 @@ package mock
 
 import (
 	gomock "github.com/golang/mock/gomock"
-	model "github.com/nacos-group/nacos-sdk-go/model"
-	vo "github.com/nacos-group/nacos-sdk-go/vo"
+	model "github.com/ijustgoon/nacos-sdk-go/model"
+	vo "github.com/ijustgoon/nacos-sdk-go/vo"
 	reflect "reflect"
 )
 
